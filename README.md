@@ -4,7 +4,6 @@ This project is a mini version of WhatsApp Web interface built using the MERN st
 
 ## Features:
 
-- User authentication: Users can sign up, log in, and log out securely.
 - Real-time messaging: Users can send and receive messages instantly without refreshing the page.
 - Simple and intuitive interface: Designed to provide a seamless chatting experience.
 
@@ -12,9 +11,7 @@ This project is a mini version of WhatsApp Web interface built using the MERN st
 
 - MongoDB: Document database used to store user information and chat messages.
 - Express.js: Web application framework for building APIs and handling HTTP requests.
-- React.js: JavaScript library for building user interfaces.
 - Node.js: JavaScript runtime environment used to build server-side applications.
-- Socket.IO: Library for real-time web applications enabling bidirectional communication between web clients and servers.
 
 ## Installation:
 
